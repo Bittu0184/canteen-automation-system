@@ -1,0 +1,17 @@
+D:\SE Project\SEProject\SEProject\bin\Debug\SEProject.exe.config
+D:\SE Project\SEProject\SEProject\bin\Debug\SEProject.exe
+D:\SE Project\SEProject\SEProject\bin\Debug\SEProject.pdb
+D:\SE Project\SEProject\SEProject\bin\Debug\Oracle.DataAccess.dll
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.csprojResolveAssemblyReference.cache
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.Form1.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.Properties.Resources.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.csproj.GenerateResource.Cache
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.exe
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.pdb
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.new_registration.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.Forgot_password.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.about_us.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.after_login.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.Menu.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.place_order.resources
+D:\SE Project\SEProject\SEProject\obj\Debug\SEProject.subscribe.resources
